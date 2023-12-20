@@ -9,4 +9,4 @@
 module load roslin/nextflow/22.10.7
 module load igmm/apps/bwa/0.7.16
 
-/exports/eddie/scratch/pdewari/hamour/nextflow run workflow_align.nf
+./nextflow run workflow_align.nf
