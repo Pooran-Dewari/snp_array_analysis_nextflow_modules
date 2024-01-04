@@ -13,6 +13,6 @@ process SAM_TO_BAM {
 
   script:
   """
-  samtools view -bS $sam -o ${sam}.bam
+  samtools view -bS -@3 $sam -o ${sam}.bam
   """
 }
