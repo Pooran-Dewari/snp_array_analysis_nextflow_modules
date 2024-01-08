@@ -18,7 +18,7 @@ process ADD_RG {
   picard AddOrReplaceReadGroups \
   I=!{bam} \
   O=!{bam}_sortedRG.bam \
-  RGID=$(echo !{bam.baseName} | cut -d"_" -f 3-5) \
+  RGID=$(echo !{bam.baseName} | cut -d"_" -f 3-5 | cut -d"." -f 1) \
   RGLB="lib1"\
   RGPL="illumina" \
   RGPU="safi_${SUFFIX}" \
