@@ -1,0 +1,2 @@
+- git clone https://github.com/capoony/PoolSNP.git
+- wget -c https://ftpmirror.gnu.org/parallel/parallel-latest.tar.bz2
