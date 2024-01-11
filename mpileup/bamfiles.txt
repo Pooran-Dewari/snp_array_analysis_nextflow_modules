@@ -1,0 +1,4 @@
+h_alwakra_EKDN230020311-1A_HF5FHDSX7_L4.sam.bam_sorted.bam_sortedRG.bam
+h_aqua_EKDN230020309-1A_HF5F5DSX7_L3_modified.sam.bam_sorted.bam_sortedRG.bam
+h_doha_EKDN230020312-1A_HF5FHDSX7_L4.sam.bam_sorted.bam_sortedRG.bam
+h_shamal_EKDN230020310-1A_HF5F5DSX7_L3.sam.bam_sorted.bam_sortedRG.bam
