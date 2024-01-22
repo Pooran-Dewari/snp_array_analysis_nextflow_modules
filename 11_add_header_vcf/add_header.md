@@ -8,3 +8,6 @@
 
 #### concat header file with the vcf
  cat header.txt hamour_biallelic_fixed.vcf > hamour_biallelic_fixed_withHeader.vcf
+
+
+### we will use <hamour_biallelic_fixed_withHeader.vcf> for grenedalf analysis
