@@ -6,12 +6,12 @@ for some reason, can't compile grenedalf, so using the precompiled version hoste
 wget -c https://github.com/lczech/grenedalf/releases/download/v0.3.0/grenedalf_v0.3.0_linux_x86_64
 ```
 
-after the download, make it executable by: \
+after the download, make it executable by:
 ```
 chmod 777 grenedalf_v0.3.0_linux_x86_64
 ```
 
-check if working fine: \
+check if working fine:
 ```
 ./grenedalf_v0.3.0_linux_x86_64 frequency
 ```
