@@ -1,0 +1,27 @@
+VCFtools - v0.1.13
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+        --gzvcf hamour_biallelic_fixed_withHeader.vcf
+        --max-missing 1
+        --out hamour.nomissingdata
+        --recode
+
+Using zlib version: 1.2.7
+After filtering, kept 4 out of 4 Individuals
+Outputting VCF file...
+After filtering, kept 10685092 out of a possible 10685092 Sites
+Run Time = 132.00 seconds
+
+VCFtools - v0.1.13
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+        --vcf hamour.nomissingdata.recode.vcf
+        --out hamour.nomissingdata.ldepth.mean
+        --site-mean-depth
+
+After filtering, kept 4 out of 4 Individuals
+Outputting Depth for Each Site
+After filtering, kept 10685092 out of a possible 10685092 Sites
+Run Time = 118.00 seconds
