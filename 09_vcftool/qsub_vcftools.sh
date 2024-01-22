@@ -4,7 +4,6 @@
 #$ -l h_rt=00:10:00 ###HH:MM:SS
 #$ -l h_vmem=60G
 #$ -pe sharedmem 4
-#$ -P roslin_macqueen_lab
 
 module load igmm/apps/vcftools/0.1.13
 
