@@ -1,0 +1,350 @@
+[W::vcf_parse] Contig 'SUPER_1' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_2' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_3' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_3_unloc_1' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_4' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_5' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_6' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_7' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_8' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_9' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_10' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_11' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_12' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_13' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_14' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_15' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_16' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_17' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_18' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_19' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_20' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_21' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_22' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_23' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_24' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_35' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_29' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_39' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_31' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_38' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_37' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_32' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_36' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_1' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_2' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_3' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_3_unloc_1' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_4' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_5' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_6' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_7' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_8' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_9' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_10' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_11' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_12' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_13' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_14' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_15' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_16' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_17' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_18' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_19' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_20' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_21' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_22' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_23' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'SUPER_24' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_35' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_29' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_39' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_31' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_38' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_37' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_32' is not defined in the header. (Quick workaround: index the file with tabix.)
+[W::vcf_parse] Contig 'scaffold_36' is not defined in the header. (Quick workaround: index the file with tabix.)
+                                                 ,--;
+                                                 \  \          ----.
+    ,-----.           ,----.;---.  ,--.  ,----.   \  \   ---.   |  |    ;-.----.
+   /  ---./ ;-,----. / .---'|  , `.|  | / .---' ,--'  \   \  \  |  |    | .---'
+  |  ( .---.|  ´` .'|  `--  |  |`  `  ||  `--  / .--.  )/ .-. \ |  |    | `--,
+   \  --'  ||  |\  \ \ `---.|  |  \   | \ `---.\ `--' //  `-'  \|  '---.| |`
+    `----´ '`--' '--' `----'`--'   `--:  `----' `----' `------'.`------'| |
+                                                                        | |
+       ========================================================////-    ,-'
+       v0.3.0 (c) 2020-2023 by Lucas Czech
+
+Invocation:                        ./grenedalf_v0.3.0_linux_x86_64 frequency --vcf-path hamour_biallelic_fixed_withHeader.vcf --reference-genome-fai-file /exports/eddie/scratch/pdewari/hamour/genome/fEpiCoi_cnag1_curated_primary.no_mt.fa.fai --write-sample-alt-freq --separator-char tab --file-suffix alt-new-vcf --out-dir ./grenedalf_output
+Command:                           grenedalf frequency
+
+Input SAM/BAM/CRAM:
+  --sam-path                       []
+  --sam-min-map-qual               0
+  --sam-min-base-qual              0
+  --sam-split-by-rg
+  --sam-flags-include-all
+  --sam-flags-include-any
+  --sam-flags-exclude-all
+  --sam-flags-exclude-any
+
+Input (m)pileup:
+  --pileup-path                    []
+  --pileup-min-base-qual           0
+  --pileup-quality-encoding        sanger
+
+Input sync:
+  --sync-path                      []
+
+Input VCF/BCF:
+  --vcf-path                       "hamour_biallelic_fixed_withHeader.vcf"
+
+Input frequency table:
+  --frequency-table-path           []
+  --frequency-table-separator-char comma
+  --frequency-table-int-factor     0
+  --frequency-table-freq-is-ref
+  --frequency-table-chr-column
+  --frequency-table-pos-column
+  --frequency-table-ref-base-column
+  --frequency-table-alt-base-column
+  --frequency-table-sample-ref-count-column
+  --frequency-table-sample-alt-count-column
+  --frequency-table-sample-freq-column
+  --frequency-table-sample-cov-column
+
+Input Settings:
+  --multi-file-locus-set           union
+  --reference-genome-fasta-file
+  --reference-genome-dict-file
+  --reference-genome-fai-file      "/exports/eddie/scratch/pdewari/hamour/genome/fEpiCoi_cnag1_curated_primary.no_mt.fa.fai"
+
+Sample Names and Filters:
+  --rename-samples-file
+  --filter-samples-include
+  --filter-samples-exclude
+
+Region Filters:
+  --filter-region                  []
+  --filter-region-list             []
+  --filter-region-bed              []
+  --filter-region-gff              []
+  --filter-region-map-bim          []
+  --filter-region-vcf              []
+  --filter-region-set              union
+
+Settings:
+  --write-sample-counts
+  --write-sample-coverage
+  --write-sample-ref-freq
+  --write-sample-alt-freq          true
+  --write-total-counts
+  --write-total-coverage
+  --write-total-frequency
+  --write-invariants
+  --omit-ref-and-alt-bases
+  --omit-alt-bases
+
+Formatting:
+  --separator-char                 "tab"
+  --na-entry                       nan
+
+Output:
+  --out-dir                        "./grenedalf_output"
+  --file-prefix
+  --file-suffix                    "alt-new-vcf"
+  --compress
+
+Global Options:
+  --allow-file-overwriting
+  --verbose
+  --threads                        44
+  --log-file
+
+Run the following command to get the references that need to be cited:
+`grenedalf citation Czech2023-grenedalf`
+
+Started 2024-01-22 17:26:26
+
+Reading reference genome fai
+Reference genome contains 33 chromosomes
+Processing 4 samples
+
+At chromosome SUPER_1
+At chromosome SUPER_2
+At chromosome SUPER_3
+At chromosome SUPER_3_unloc_1
+At chromosome SUPER_4
+At chromosome SUPER_5
+At chromosome SUPER_6
+At chromosome SUPER_7
+At chromosome SUPER_8
+At chromosome SUPER_9
+At chromosome SUPER_10
+At chromosome SUPER_11
+At chromosome SUPER_12
+At chromosome SUPER_13
+At chromosome SUPER_14
+At chromosome SUPER_15
+At chromosome SUPER_16
+At chromosome SUPER_17
+At chromosome SUPER_18
+At chromosome SUPER_19
+At chromosome SUPER_20
+At chromosome SUPER_21
+At chromosome SUPER_22
+At chromosome SUPER_23
+At chromosome SUPER_24
+At chromosome scaffold_35
+At chromosome scaffold_29
+At chromosome scaffold_39
+At chromosome scaffold_31
+At chromosome scaffold_38
+At chromosome scaffold_37
+At chromosome scaffold_32
+At chromosome scaffold_36
+Processed 10685092 genome positions of the input file, from 33 chromosomes, and thereof skipped 0 due to being invariant sites.
+
+Finished 2024-01-22 17:27:32
+                                                 ,--;
+                                                 \  \          ----.
+    ,-----.           ,----.;---.  ,--.  ,----.   \  \   ---.   |  |    ;-.----.
+   /  ---./ ;-,----. / .---'|  , `.|  | / .---' ,--'  \   \  \  |  |    | .---'
+  |  ( .---.|  ´` .'|  `--  |  |`  `  ||  `--  / .--.  )/ .-. \ |  |    | `--,
+   \  --'  ||  |\  \ \ `---.|  |  \   | \ `---.\ `--' //  `-'  \|  '---.| |`
+    `----´ '`--' '--' `----'`--'   `--:  `----' `----' `------'.`------'| |
+                                                                        | |
+       ========================================================////-    ,-'
+       v0.3.0 (c) 2020-2023 by Lucas Czech
+
+Invocation:                        ./grenedalf_v0.3.0_linux_x86_64 frequency --vcf-path hamour_biallelic_fixed_withHeader.vcf --reference-genome-fai-file /exports/eddie/scratch/pdewari/hamour/genome/fEpiCoi_cnag1_curated_primary.no_mt.fa.fai --write-sample-coverage --separator-char tab --file-suffix cov-new-vcf --out-dir ./grenedalf_output
+Command:                           grenedalf frequency
+
+Input SAM/BAM/CRAM:
+  --sam-path                       []
+  --sam-min-map-qual               0
+  --sam-min-base-qual              0
+  --sam-split-by-rg
+  --sam-flags-include-all
+  --sam-flags-include-any
+  --sam-flags-exclude-all
+  --sam-flags-exclude-any
+
+Input (m)pileup:
+  --pileup-path                    []
+  --pileup-min-base-qual           0
+  --pileup-quality-encoding        sanger
+
+Input sync:
+  --sync-path                      []
+
+Input VCF/BCF:
+  --vcf-path                       "hamour_biallelic_fixed_withHeader.vcf"
+
+Input frequency table:
+  --frequency-table-path           []
+  --frequency-table-separator-char comma
+  --frequency-table-int-factor     0
+  --frequency-table-freq-is-ref
+  --frequency-table-chr-column
+  --frequency-table-pos-column
+  --frequency-table-ref-base-column
+  --frequency-table-alt-base-column
+  --frequency-table-sample-ref-count-column
+  --frequency-table-sample-alt-count-column
+  --frequency-table-sample-freq-column
+  --frequency-table-sample-cov-column
+
+Input Settings:
+  --multi-file-locus-set           union
+  --reference-genome-fasta-file
+  --reference-genome-dict-file
+  --reference-genome-fai-file      "/exports/eddie/scratch/pdewari/hamour/genome/fEpiCoi_cnag1_curated_primary.no_mt.fa.fai"
+
+Sample Names and Filters:
+  --rename-samples-file
+  --filter-samples-include
+  --filter-samples-exclude
+
+Region Filters:
+  --filter-region                  []
+  --filter-region-list             []
+  --filter-region-bed              []
+  --filter-region-gff              []
+  --filter-region-map-bim          []
+  --filter-region-vcf              []
+  --filter-region-set              union
+
+Settings:
+  --write-sample-counts
+  --write-sample-coverage          true
+  --write-sample-ref-freq
+  --write-sample-alt-freq
+  --write-total-counts
+  --write-total-coverage
+  --write-total-frequency
+  --write-invariants
+  --omit-ref-and-alt-bases
+  --omit-alt-bases
+
+Formatting:
+  --separator-char                 "tab"
+  --na-entry                       nan
+
+Output:
+  --out-dir                        "./grenedalf_output"
+  --file-prefix
+  --file-suffix                    "cov-new-vcf"
+  --compress
+
+Global Options:
+  --allow-file-overwriting
+  --verbose
+  --threads                        44
+  --log-file
+
+Run the following command to get the references that need to be cited:
+`grenedalf citation Czech2023-grenedalf`
+
+Started 2024-01-22 17:27:32
+
+Reading reference genome fai
+Reference genome contains 33 chromosomes
+Processing 4 samples
+
+At chromosome SUPER_1
+At chromosome SUPER_2
+At chromosome SUPER_3
+At chromosome SUPER_3_unloc_1
+At chromosome SUPER_4
+At chromosome SUPER_5
+At chromosome SUPER_6
+At chromosome SUPER_7
+At chromosome SUPER_8
+At chromosome SUPER_9
+At chromosome SUPER_10
+At chromosome SUPER_11
+At chromosome SUPER_12
+At chromosome SUPER_13
+At chromosome SUPER_14
+At chromosome SUPER_15
+At chromosome SUPER_16
+At chromosome SUPER_17
+At chromosome SUPER_18
+At chromosome SUPER_19
+At chromosome SUPER_20
+At chromosome SUPER_21
+At chromosome SUPER_22
+At chromosome SUPER_23
+At chromosome SUPER_24
+At chromosome scaffold_35
+At chromosome scaffold_29
+At chromosome scaffold_39
+At chromosome scaffold_31
+At chromosome scaffold_38
+At chromosome scaffold_37
+At chromosome scaffold_32
+At chromosome scaffold_36
+Processed 10685092 genome positions of the input file, from 33 chromosomes, and thereof skipped 0 due to being invariant sites.
+
+Finished 2024-01-22 17:28:22
