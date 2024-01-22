@@ -15,3 +15,10 @@ check if working fine:
 ```
 ./grenedalf_v0.3.0_linux_x86_64 frequency
 ```
+
+we also need a modified fai file as a reference to lexicographic order of chromosomes, this can be created using the indexed genome fai file
+```
+cat genome/fEpiCoi_cnag1_curated_primary.no_mt.fa.fai  | LC_ALL=C sort > genome/fEpiCoi_cnag1_curated_primary.no_mt.lexic.fai
+```
+
+use the new lexicographic fai file as a parameter for the option `--reference-genome-fai-file`
