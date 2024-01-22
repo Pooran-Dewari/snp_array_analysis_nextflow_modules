@@ -1,5 +1,7 @@
 ## while fixing the vcf with py script, the header will go missing. We need to add header manually for grenedalf later
 
+### you can either use `add_header.sh` script to achieve this, or manually as follows
+
 #### first, extract header
  ```
 zcat hamour_vcf_biallelic.recode.vcf.gz | grep '#' > header.txt
