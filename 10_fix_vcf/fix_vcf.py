@@ -1,7 +1,7 @@
 import gzip
 
-vcf_file_path = '/exports/eddie/scratch/pdewari/hamour/results/bams/RG/poolsnp_results/hamour_vcf_biallelic.recode.vcf.gz'
-output_file_path = '/exports/eddie/scratch/pdewari/hamour/results/bams/RG/poolsnp_results/hamour_biallelic_fixed.vcf'
+vcf_file_path = 'hamour_vcf_biallelic.recode.vcf.gz'
+output_file_path = 'hamour_biallelic_fixed.vcf'
 
 
 # Open the VCF file in read mode
