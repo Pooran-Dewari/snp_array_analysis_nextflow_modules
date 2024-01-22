@@ -17,3 +17,9 @@ check if working fine:
 ```
 
 Grenedalf is very strict about the lexicographic order of chromosomes, this can be resolved by using the option `--reference-genome-fai-file` to predefine how chromosomes are ordered in the vcf file
+
+
+### run grenedalf
+```
+qsub qsub_grenedalf.sh
+```
