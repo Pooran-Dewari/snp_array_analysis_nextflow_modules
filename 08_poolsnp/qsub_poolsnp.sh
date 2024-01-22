@@ -4,7 +4,6 @@
 #$ -l h_rt=60:00:00 ###HH:MM:SS
 #$ -l h_vmem=60G
 #$ -pe sharedmem 4
-#$ -P roslin_macqueen_lab
 
 module load igmm/apps/parallel/20230522
 module load igmm/apps/python/3.10.6
