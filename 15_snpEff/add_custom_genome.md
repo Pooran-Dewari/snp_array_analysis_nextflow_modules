@@ -58,6 +58,7 @@ Ctrl + v
 fEpiCoi_cnag1.genome: fEpiCoi_cnag1
 
 # once you have edited the config file, build the genome using command below
+cd snpEff
 java -jar snpEff.jar build -gff3 -v fEpiCoi_cnag1
 ```
 
