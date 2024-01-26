@@ -62,31 +62,3 @@ cd snpEff
 java -jar snpEff.jar build -gff3 -v fEpiCoi_cnag1
 ```
 
-log file for the install should look something like this
-```
-00:00:00 SnpEff version SnpEff 5.2a (build 2023-10-24 14:24), by Pablo Cingolani
-00:00:00 Command: 'build'
-00:00:00 Building database for 'fEpiCoi_cnag1'
-00:00:00 Reading configuration file 'snpEff.config'. Genome: 'fEpiCoi_cnag1'
-00:00:00 Reading config file: /exports/eddie/scratch/pdewari/hamour/results/bams/RG/dup_removed/snpEff/snpEff/snpEff.config
-00:00:01 done
-00:00:01 Reading GFF3 data file  : '/exports/eddie/scratch/pdewari/hamour/results/bams/RG/dup_removed/snpEff/snpEff/./data/fEpiCoi_cnag1/genes.gff'
-00:00:01 Reading file '/exports/eddie/scratch/pdewari/hamour/results/bams/RG/dup_removed/snpEff/snpEff/./data/fEpiCoi_cnag1/genes.gff'
-java.lang.RuntimeException: File not found '/exports/eddie/scratch/pdewari/hamour/results/bams/RG/dup_removed/snpEff/snpEff/./data/fEpiCoi_cnag1/genes.gff'
-        at org.snpeff.util.Gpr.reader(Gpr.java:513)
-        at org.snpeff.util.Gpr.reader(Gpr.java:484)
-        at org.snpeff.snpEffect.factory.SnpEffPredictorFactoryGff.readGff(SnpEffPredictorFactoryGff.java:513)
-        at org.snpeff.snpEffect.factory.SnpEffPredictorFactoryGff.create(SnpEffPredictorFactoryGff.java:345)
-        at org.snpeff.snpEffect.commandLine.SnpEffCmdBuild.run(SnpEffCmdBuild.java:414)
-        at org.snpeff.SnpEff.run(SnpEff.java:1173)
-        at org.snpeff.SnpEff.main(SnpEff.java:163)
-java.lang.RuntimeException: Error reading file '/exports/eddie/scratch/pdewari/hamour/results/bams/RG/dup_removed/snpEff/snpEff/./data/fEpiCoi_cnag1/genes.gff'
-java.lang.RuntimeException: File not found '/exports/eddie/scratch/pdewari/hamour/results/bams/RG/dup_removed/snpEff/snpEff/./data/fEpiCoi_cnag1/genes.gff'
-        at org.snpeff.snpEffect.factory.SnpEffPredictorFactoryGff.create(SnpEffPredictorFactoryGff.java:362)
-        at org.snpeff.snpEffect.commandLine.SnpEffCmdBuild.run(SnpEffCmdBuild.java:414)
-        at org.snpeff.SnpEff.run(SnpEff.java:1173)
-        at org.snpeff.SnpEff.main(SnpEff.java:163)
-00:00:01 Logging
-00:00:02 Checking for updates...
-00:00:04 Done.
-```
