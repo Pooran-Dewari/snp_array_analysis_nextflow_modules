@@ -36,12 +36,12 @@ cd snpEff/data
 mkdir fEpiCoi_cnag1
 cd fEpiCoi_cnag1f1
 cp <path/to/genome/fasta/file> sequences.fa #this is your genome file fasta format
-cp <paht/to/gff3/file> genes.gff3
+cp <paht/to/gff3/file> genes.gff
 
 # directory structure should be like this
 # data/
 # └── fEpiCoi_cnag1
-#    ├── genes.gff3
+#    ├── genes.gff
 #    └── sequences.fa
 ```
 
